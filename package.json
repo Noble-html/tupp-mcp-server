@@ -1,0 +1,14 @@
+{
+  "name": "tupp-mcp-server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "xmcp dev",
+    "build": "xmcp build",
+    "start": "xmcp start"
+  },
+  "dependencies": {
+    "xmcp": "latest",
+    "zod": "^3.22.0"
+  }
+}
